@@ -1,0 +1,5 @@
+makefile run from lower to upper
+thus 
+1. Compile: first, from *.cpp *.c to *.o
+2. Build: later, from *.o to *.exe 
+3. Run : finally, ./*.exe

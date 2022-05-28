@@ -21,4 +21,7 @@ target_include_directories(mypro PUBLIC
 #option(USE_MYMATH "Use tutorial provided math implementation" ON)
 #configure_file(myconfig.h.in myconfig.h)
 
-#build
+
+#
+#順序一定要add_lib後面
+#set_target_properties(mypro PROPERTIES LINKER_LANGUAGE CXX)

@@ -1,0 +1,10 @@
+in order to include the directory of link folder
+such as libary_folder
+
+must!!
+
+1. add libary in cmakelist (both folder)
+2. include direcotry
+3. link libary
+
+

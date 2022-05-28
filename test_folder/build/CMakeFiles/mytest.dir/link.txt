@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/mytest.dir/test.cpp.o  -o mytest libmylib.a 

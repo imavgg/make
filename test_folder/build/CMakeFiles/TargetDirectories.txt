@@ -1,0 +1,4 @@
+/home/an/Desktop/makefile_folder/test_folder/build/CMakeFiles/rebuild_cache.dir
+/home/an/Desktop/makefile_folder/test_folder/build/CMakeFiles/edit_cache.dir
+/home/an/Desktop/makefile_folder/test_folder/build/CMakeFiles/mylib.dir
+/home/an/Desktop/makefile_folder/test_folder/build/CMakeFiles/mytest.dir

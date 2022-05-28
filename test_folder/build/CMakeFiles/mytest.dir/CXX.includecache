@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../library_folder/mysrc2.c
+stdio.h
+-
+
+/home/an/Desktop/makefile_folder/test_folder/extern.c
+stdio.h
+-
+
+/home/an/Desktop/makefile_folder/test_folder/myhead.h
+
+/home/an/Desktop/makefile_folder/test_folder/test.cpp
+myhead.h
+/home/an/Desktop/makefile_folder/test_folder/myhead.h
+extern.c
+/home/an/Desktop/makefile_folder/test_folder/extern.c
+mysrc2.c
+/home/an/Desktop/makefile_folder/test_folder/mysrc2.c
+stdio.h
+-
+
