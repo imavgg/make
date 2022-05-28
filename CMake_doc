@@ -1,0 +1,10 @@
+mkdir build; cd build
+cmake .. (write makefile in build產生buildfile)
+make (編譯,可能出現文件上的ERROR）
+
+可以不需要刪除 build folder,重新使用cmake 編譯
+#rm -r build;
+
+接下來執行
+./project_name
+

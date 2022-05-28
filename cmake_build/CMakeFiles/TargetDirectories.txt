@@ -1,0 +1,6 @@
+/home/an/Desktop/makefile_folder/build/CMakeFiles/rebuild_cache.dir
+/home/an/Desktop/makefile_folder/build/CMakeFiles/mypro.dir
+/home/an/Desktop/makefile_folder/build/CMakeFiles/edit_cache.dir
+/home/an/Desktop/makefile_folder/build/library_folder/CMakeFiles/rebuild_cache.dir
+/home/an/Desktop/makefile_folder/build/library_folder/CMakeFiles/mylib.dir
+/home/an/Desktop/makefile_folder/build/library_folder/CMakeFiles/edit_cache.dir

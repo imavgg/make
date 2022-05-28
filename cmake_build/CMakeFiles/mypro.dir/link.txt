@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/mypro.dir/mysrc.cpp.o  -o mypro library_folder/libmylib.a 
